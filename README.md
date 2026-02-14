@@ -27,7 +27,7 @@
 ---
 
 ### 🌐 Profiles
-- 💼 LinkedIn: https://linkedin.com/in/Rahul Yadav
+- 💼 LinkedIn: https://linkedin.com/in/RahulYadav296
 - 🧠 LeetCode: https://leetcode.com/Rahulll_Yadav56
 - 🔐 TryHackMe: https://tryhackme.com/p/RahulYadav295
 - 💻 GitHub: https://github.com/RahulYadav294
