@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 B.Tech Student
-- 💻 Strong in Java, OS, DBMS & DSA
+- 💻 Strong in Java, OS, DBMS , DSA and doing specialization in cybersecurity
 - 🔐 Practicing hands-on cybersecurity labs
 - 🚀 Actively building real-world projects
 
@@ -19,11 +19,11 @@
 ---
 
 ### 🔐 Cybersecurity Exposure
-- SQL Injection (Boolean & Union based)
-- DVWA & TryHackMe labs
-- Burp Suite for request interception
-- Phishing link analysis
-
+- Performed **40+ hands-on labs** on TryHackMe covering web security and common vulnerabilities  
+- Practiced **SQL Injection (Boolean-based & Union-based)** in controlled lab environments  
+- Used **Burp Suite** to intercept, analyze, and modify HTTP requests  
+- Analyzed phishing URLs to identify malicious patterns  
+- Gained practical exposure using **DVWA** and Linux-based tools 
 ---
 
 ### 🌐 Profiles
