@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rahul Yadav</h1>
+<h3 align="center">Java Developer | Cybersecurity Enthusiast</h3>
 
-<!--
-**RahulYadav294/RahulYadav294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 B.Tech Student
+- 💻 Strong in Java, OS, DBMS & DSA
+- 🔐 Practicing hands-on cybersecurity labs
+- 🚀 Actively building real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,mysql,linux,git,github,html,css" />
+</p>
+
+---
+
+### 🔐 Cybersecurity Exposure
+- SQL Injection (Boolean & Union based)
+- DVWA & TryHackMe labs
+- Burp Suite for request interception
+- Phishing link analysis
+
+---
+
+### 🌐 Profiles
+- 💼 LinkedIn: https://linkedin.com/in/Rahul Yadav
+- 🧠 LeetCode: https://leetcode.com/Rahulll_Yadav56
+- 🔐 TryHackMe: https://tryhackme.com/p/RahulYadav295
+- 💻 GitHub: https://github.com/RahulYadav294
+
